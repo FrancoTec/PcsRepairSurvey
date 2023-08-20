@@ -19,9 +19,9 @@ SET time_zone = "+00:00";
 
 --
 -- Base de datos: `ppbasededatos`
-DROP DATABASE IF EXISTS ppbasededatos;
-CREATE DATABASE ppbasededatos;
-use ppbasededatos;
+DROP DATABASE IF EXISTS relevequips;
+CREATE DATABASE relevequips;
+use relevequips;
 --
 
 -- --------------------------------------------------------
